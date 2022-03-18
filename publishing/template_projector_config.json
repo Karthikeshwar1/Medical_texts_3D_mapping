@@ -2,10 +2,13 @@
   "embeddings": [
     {
       "tensorName": "Medical Physiology text embeddings",
-      "tensorShape": [9978, 1024],
+      "tensorShape": [17820, 100],
       "tensorPath": "https://raw.githubusercontent.com/Karthikeshwar1/Medical_texts_3D_mapping/main/tsv_output/GandH_Medical_Physiology_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/Karthikeshwar1/Medical_texts_3D_mapping/main/tsv_output/GandH_Medical_Physiology_metadata.tsv"
-
+      "metadataPath": "https://raw.githubusercontent.com/Karthikeshwar1/Medical_texts_3D_mapping/main/tsv_output/GandH_Medical_Physiology_metadata.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/Karthikeshwar1/Medical_texts_3D_mapping/blob/main/publishing/optional_image.png",
+        "singleImageDim": [32, 32]
+      }
     }
   ]
 }
