@@ -4,7 +4,7 @@
       "tensorName": "Medical Physiology text embeddings",
       "tensorShape": [9978, 1024],
       "tensorPath": "https://raw.githubusercontent.com/Karthikeshwar1/Medical_texts_3D_mapping/main/tsv_output/GandH_Medical_Physiology_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/Karthikeshwar1/Medical_texts_3D_mapping/main/tsv_output/GandH_Medical_Physiology_metadata.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Karthikeshwar1/Medical_texts_3D_mapping/main/tsv_output/GandH_Medical_Physiology_metadata.tsv"
 
     }
   ]
